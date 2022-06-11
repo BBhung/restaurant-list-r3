@@ -48,7 +48,7 @@ npm run dev
 6. 若看見此行訊息則代表順利運行，打開瀏覽器進入到以下網址
 
 ```
-Express is running on localhost:
+Express is running on localhost:3000
 ```
 
 6. 若欲暫停使用(MAC)
