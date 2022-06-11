@@ -59,9 +59,9 @@ control + c
 
 ## 使用工具
 
-．Node.js 14.16.0
-．Express 4.16.4
-．Express-Handlebars 3.0.0
-．Mongoose 5.9.7
-．Method-override 3.0.0
-．Body-parser
+- Node.js 14.16.0
+- Express 4.16.4
+- Express-Handlebars 3.0.0
+- Mongoose 5.9.7
+- Method-override 3.0.0
+- Body-parser
